@@ -1,4 +1,5 @@
 public class Student {
+    
     static class Mark {
         private final String markName;
         private final int mark;
